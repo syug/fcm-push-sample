@@ -1,0 +1,7 @@
+{
+  "gcm_sender_id": "116718890387",
+  "name": "fcm-push-sample",
+  "short_name": "sample",
+  "start_url": "/",
+  "display": "standalone"
+}
